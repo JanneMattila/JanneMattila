@@ -1,11 +1,8 @@
 ### Hello there!
 
-I'm Cloud Solution Architect (CSA) at Microsoft focusing on Azure application development. 
+I'm Cloud Solution Architect (CSA) at Microsoft focusing on Azure application development. You can also find me in [Twitter](https://twitter.com/janne_mattila) and [LinkedIn](https://www.linkedin.com/in/jannemattila/).
 
-* Twitter [@janne_mattila](https://twitter.com/janne_mattila)
-* LinkedIn [jannemattila](https://www.linkedin.com/in/jannemattila/)
-
-Occasionally I blog about different development topics in these places:
+Occasionally (read: too rarely), I blog about different development topics in these places:
 
 * [dev.to/janne_mattila](https://dev.to/janne_mattila/)
 * [medium.com/@janne_mattila](https://medium.com/@janne_mattila)
