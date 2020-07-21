@@ -4,9 +4,9 @@ I'm Cloud Solution Architect (CSA) at Microsoft focusing on Azure application de
 
 Occasionally (read: too rarely), I blog about different development topics in these places:
 
-* [dev.to/janne_mattila](https://dev.to/janne_mattila/)
-* [medium.com/@janne_mattila](https://medium.com/@janne_mattila)
-* [docs.microsoft.com/archive/blogs/jannemattila](https://docs.microsoft.com/en-us/archive/blogs/jannemattila/)
+* Primary: [dev.to/janne_mattila](https://dev.to/janne_mattila/)
+* Secondary: [medium.com/@janne_mattila](https://medium.com/@janne_mattila)
+* Old archive: [docs.microsoft.com/archive/blogs/jannemattila](https://docs.microsoft.com/en-us/archive/blogs/jannemattila/)
 
 > From programmer to programmer -- Programming just for the fun of it
 
