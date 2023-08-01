@@ -1,6 +1,6 @@
 ### Hello there!
 
-I'm Cloud Solution Architect at Microsoft focusing on Azure application development. You can also find me in [Twitter](https://twitter.com/janne_mattila) and [LinkedIn](https://www.linkedin.com/in/jannemattila/).
+I'm Cloud Solution Architect at Microsoft focusing on Azure application development. You can find me in [Twitter](https://twitter.com/janne_mattila) and [LinkedIn](https://www.linkedin.com/in/jannemattila/).
 
 Here are links to my old blogs:
 - [dev.to/janne_mattila](https://dev.to/janne_mattila/)
