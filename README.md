@@ -1,11 +1,10 @@
 ### Hello there!
 
-I'm Cloud Solution Architect at Microsoft focusing on Azure application development. You can find me in [Twitter](https://twitter.com/janne_mattila) and [LinkedIn](https://www.linkedin.com/in/jannemattila/).
+I'm a Cloud Solution Architect at Microsoft focusing on Azure application development. 
 
-Here are links to my old blogs:
-- [dev.to/janne_mattila](https://dev.to/janne_mattila/)
-- [medium.com/@janne_mattila](https://medium.com/@janne_mattila)
-- [docs.microsoft.com/archive/blogs/jannemattila](https://docs.microsoft.com/en-us/archive/blogs/jannemattila/)
+I try to blog weekly at [https://www.jannemattila.com](https://www.jannemattila.com).
+
+You can also find me on [Twitter](https://twitter.com/janne_mattila) and [LinkedIn](https://www.linkedin.com/in/jannemattila/).
 
 > From programmer to programmer -- Programming just for the fun of it
 
