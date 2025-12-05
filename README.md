@@ -2,7 +2,7 @@
 
 I'm a Cloud Solution Architect at Microsoft focusing on Azure application development. 
 
-I try to blog weekly at [https://www.jannemattila.com](https://www.jannemattila.com).
+I blog at [https://www.jannemattila.com](https://www.jannemattila.com).
 
 You can also find me on [Twitter](https://twitter.com/janne_mattila) and [LinkedIn](https://www.linkedin.com/in/jannemattila/).
 
